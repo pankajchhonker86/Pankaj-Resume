@@ -9,9 +9,9 @@ Welcome to my resume repository! This repository hosts the latest version of my 
 ##  Professional Links
 
 * **GitHub Profile:** [github.com/pankajchhonker86](https://github.com/pankajchhonker86)
-* **LinkedIn Profile:** [linkedin.com/in/pankaj-chhonker-b97065359](https://linkedin.com/in/pankaj-chhonker-b97065359)
+* **LinkedIn Profile:** [linkedin.com/in/pankaj-chhonker-b97065359](https://www.linkedin.com/in/pankaj-c-b97065359/)
 
 ##  Highlighted Projects
 
 * **[Spring Boot Core Backend Engine](https://github.com/pankajchhonker86/spring-backend-engine):** Production-grade backend engine showcasing Spring AOP proxy tracking, custom runtime annotations, and profile-driven deployment configurations.
-* **[JVM Bootstrapping & ClassLoading Sandbox]((https://github.com/pankajchhonker86/jvm-bootstrapping-demo)):** A custom Java ClassLoader simulation handling dynamic bytecode injection and low-level runtime isolation boundaries.
+* **[JVM Bootstrapping & ClassLoading Sandbox](https://github.com/pankajchhonker86/jvm-bootstrapping-demo):** A custom Java ClassLoader simulation handling dynamic bytecode injection and low-level runtime isolation boundaries.
