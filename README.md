@@ -3,8 +3,7 @@ Welcome to my resume repository! This repository hosts the latest version of my 
 
 ##  View Resume
 
-*  **[Download Latest PDF Resume](https://github.com/pankajchhonker86/Pankaj-Resume/raw/main/Resume%20Pankaj%20Updated.pdf)**
-  
+* **[Download Latest PDF Resume](https://github.com/pankajchhonker86/Pankaj-Resume/raw/main/Pankaj%20Updated%20Resume.pdf)**  
 ##  Professional Links
 
 * **GitHub Profile:** [github.com/pankajchhonker86](https://github.com/pankajchhonker86)
